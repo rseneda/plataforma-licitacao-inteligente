@@ -26,10 +26,12 @@ Quero gerar automaticamente um ETP
 Para reduzir tempo e padronizar documentos  
 
 **Critérios de Aceite:**
-- Permitir seleção do tipo de contratação  
-- Sugerir justificativa automaticamente  
-- Permitir edição manual  
-- Exportar em PDF  
+- Deve gerar ETP contendo:
+  - justificativa
+  - descrição da solução
+  - análise de mercado
+- Deve permitir edição manual
+- Deve exportar em PDF
 
 **Prioridade:** Alta
 
