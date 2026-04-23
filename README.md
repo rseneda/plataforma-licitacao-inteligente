@@ -45,3 +45,10 @@ Este projeto simula um cenário real de contratação pública de TI, integrando
 - Aplicação de Inteligência Artificial
 
 O objetivo é demonstrar capacidade prática de atuação como Product Owner no setor público.
+
+## Caso de Uso Real
+
+Este projeto simula a aplicação em órgãos públicos como:
+- Secretarias 
+- Tribunais
+- Órgãos de controle
